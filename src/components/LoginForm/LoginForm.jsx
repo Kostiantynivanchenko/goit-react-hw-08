@@ -33,7 +33,7 @@ const LoginForm = () => {
             />
           </label>
           <label className="flex flex-col gap-2">
-            <span>Password:</span>
+            <span>Pasword:</span>
             <Field
               className="p-2.5 border-1-black outline-none shadow-md rounded-md hover:shadow-xl focus:shadow-xl"
               name="password"
